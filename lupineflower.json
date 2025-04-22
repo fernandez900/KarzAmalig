@@ -118,6 +118,18 @@
       "name_category": "Nature",
       "title": "Wallpaper_offline _12",
       "image": "file:///android_asset/image/wallpaper_12.jpg"
+    },
+        {
+      "id": 1013,
+      "name_category": "Nature",
+      "title": "Wallpaper_offline _13",
+      "image": "file:///android_asset/image/wallpaper_13.jpg"
+    },
+      {
+      "id": 1014,
+      "name_category": "Nature",
+      "title": "Wallpaper_offline _13",
+      "image": "file:///android_asset/image/wallpaper_14.jpg"
     }
   ]
 }
