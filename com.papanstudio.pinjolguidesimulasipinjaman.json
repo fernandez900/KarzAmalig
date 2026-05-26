@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "Pinjol Guide Simulasi Pinjaman",
+    "package_name": "com.papanstudio.pinjolguidesimulasipinjaman",
+    "developer": "Manek Studio",
+    "category": "Books & Reference",
+    "target_sdk": 35,
+    "min_sdk": 24,
+    "version_name": "1.0.0",
+    "version_code": 1
+  },
+  "ads": {
+    "provider": "admob",
+    "enabled": true,
+    "test_mode": false,
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_interval_seconds": 45,
+    "interstitial_clicks_threshold": 4,
+    "app_open_interval_seconds": 60,
+    "show_app_open_on_start": true,
+    "show_app_open_on_resume": true,
+    "show_interstitial_on_navigation": true,
+    "show_interstitial_on_article_click": true,
+    "show_interstitial_after_calculation": true,
+    "preload_ads": true
+  },
+  "content": {
+    "privacy_policy_url": "https://arifinazis.github.io/json/privacy-policy.html",
+    "about_app": "Pinjol Guide Simulasi Pinjaman adalah aplikasi edukasi finansial dan simulasi cicilan untuk membantu menghitung estimasi pinjaman dan memahami kredit online.",
+    "disclaimer": "Aplikasi ini bukan penyedia layanan pinjaman online dan tidak memberikan pinjaman uang secara langsung. Semua fitur hanya berupa simulasi, kalkulator, dan edukasi finansial."
+  },
+  "calculator": {
+    "default_loan_amount": 1000000,
+    "default_interest_rate": 2.5,
+    "default_tenor_months": 12,
+    "min_loan_amount": 100000,
+    "max_loan_amount": 100000000,
+    "min_interest_rate": 0.1,
+    "max_interest_rate": 15,
+    "min_tenor_months": 1,
+    "max_tenor_months": 48,
+    "currency": "IDR",
+    "calculation_type": "flat_interest"
+  },
+  "ui": {
+    "theme": "modern_fintech_guide",
+    "dark_mode": true,
+    "primary_color": "#0FA36B",
+    "secondary_color": "#1976D2",
+    "accent_color": "#29B6F6",
+    "background_color": "#F4F8FB",
+    "dark_background_color": "#0F172A",
+    "card_corner_radius": 20
+  },
+  "features": {
+    "loan_calculator": true,
+    "guide_articles": true,
+    "favorites_articles": true,
+    "simulation_history": true,
+    "copy_result": true,
+    "share_result": true,
+    "settings_page": true
+  },
+  "remote_config": {
+    "enabled": true,
+    "json_url": "https://arifinazis.github.io/json/com.papanstudio.pinjolguidesimulasipinjaman.json",
+    "cache_duration_hours": 12
+  }
+}
