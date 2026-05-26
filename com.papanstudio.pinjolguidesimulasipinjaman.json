@@ -65,7 +65,7 @@
   },
   "remote_config": {
     "enabled": true,
-    "json_url": "https://arifinazis.github.io/json/com.papanstudio.pinjolguidesimulasipinjaman.json",
+    "json_url": "https://raw.githubusercontent.com/fernandez900/KarzAmalig/refs/heads/main/com.papanstudio.pinjolguidesimulasipinjaman.json",
     "cache_duration_hours": 12
   }
 }
