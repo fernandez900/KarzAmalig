@@ -1,8 +1,8 @@
 {
   "app": {
-    "name": "Pinjol Guide Simulasi Pinjaman",
+    "name": "Simulasi Pinjaman Pinjol Guide ",
     "package_name": "com.papanstudio.pinjolguidesimulasipinjaman",
-    "developer": "Manek Studio",
+    "developer": "Papan Studio",
     "category": "Books & Reference",
     "target_sdk": 35,
     "min_sdk": 24,
